@@ -1,0 +1,298 @@
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll.config
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\WebGrease.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+c:\users\intellego\documents\visual studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll.config
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\WebGrease.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+E:\FrontEnd\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\practicante03\Documents\Jefrien\Actual_1_9_2016\FrontEnd_Liquidaciones\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll.config
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\practicante02\Desktop\nueva\Actual_6_9_2016\Version_2.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll.config
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_2.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\practicante03\Documents\Jefrien\Version_2.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll.config
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.0\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\practicante03\Documents\Jefrien\FrontEnd\Version_3.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll.config
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_3.2\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll.config
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\System.Net.Http.Formatting.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\System.Web.Http.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\System.Web.Http.WebHost.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\System.Net.Http.Formatting.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\System.Web.Http.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.0\FrontEnd_Liquidaciones\bin\System.Web.Http.WebHost.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll.config
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\System.Net.Http.Formatting.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Http.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Http.WebHost.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\System.Net.Http.Formatting.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Http.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Http.WebHost.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\intellego\Documents\Visual Studio 2013\Projects\FrontEnd_Liquidaciones\Version_4.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.csprojResolveAssemblyReference.cache
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\FrontEnd_Liquidaciones.pdb
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\DocumentFormat.OpenXml.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\System.Net.Http.Formatting.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Http.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Http.WebHost.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\WebGrease.dll
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\System.Net.Http.Formatting.xml
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Http.xml
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Http.WebHost.xml
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\System.Web.Optimization.xml
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Antlr3.Runtime.pdb
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Newtonsoft.Json.xml
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\practicante02\Desktop\Version_4.1\FrontEnd_Liquidaciones\obj\Debug\FrontEnd_Liquidaciones.pdb
